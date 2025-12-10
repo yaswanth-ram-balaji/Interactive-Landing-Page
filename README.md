@@ -8,8 +8,11 @@ Features a **3D robot animation** that **follows the user's cursor**, smooth UI 
 ## 🚀 **Live Demo**
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 https://interactive-landing-page-smoky.vercel.app/
 =======
+=======
+>>>>>>> Stashed changes
 *(Add your deployed link here — Streamlit / GitHub Pages / Netlify)*  
 `https://your-demo-link.com`
 >>>>>>> Stashed changes
@@ -49,7 +52,12 @@ https://interactive-landing-page-smoky.vercel.app/
 1. **Clone the repo:**
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  * git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+=======
+---
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+>>>>>>> Stashed changes
 =======
 ---
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
