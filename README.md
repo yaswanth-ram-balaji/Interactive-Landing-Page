@@ -7,8 +7,7 @@ Features a **3D robot animation** that **follows the user's cursor**, smooth UI 
 
 ## 🚀 **Live Demo**
 
-*(Add your deployed link here — Streamlit / GitHub Pages / Netlify)*
-`https://your-demo-link.com`
+https://interactive-landing-page-smoky.vercel.app/
 
 ---
 
@@ -38,18 +37,13 @@ Features a **3D robot animation** that **follows the user's cursor**, smooth UI 
 
 ![Interactive Landing Page](assets/interactive%20landing%20page.png)
 
-
-```
-
 ---
 
 ## ▶️ **How to Run Locally**
 
 1. Clone the repo:
 
-```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-```
+  git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 
 2. Open the project folder.
 
