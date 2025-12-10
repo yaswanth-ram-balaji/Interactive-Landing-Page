@@ -36,10 +36,8 @@ Features a **3D robot animation** that **follows the user's cursor**, smooth UI 
 
 ## 📸 **Preview**
 
-Add your screenshot here:
+![Interactive Landing Page](assets/interactive%20landing%20page.png)
 
-```
-<img width="1891" height="861" alt="interactive landing page" src="https://github.com/user-attachments/assets/9ca00646-a412-4983-93c1-9ac15bd21424" />
 
 ```
 
