@@ -43,7 +43,7 @@ https://interactive-landing-page-smoky.vercel.app/
 
 1. Clone the repo:
 
-  git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+ * git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 
 2. Open the project folder.
 
